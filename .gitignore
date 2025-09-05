@@ -155,3 +155,9 @@ csv_report.md
 *.temp
 temp/
 tmp/
+
+# Kiro specs and documentation files
+.kiro/specs/deal-summary-qa-bot/requirements.md
+.kiro/specs/deal-summary-qa-bot/design.md
+.kiro/specs/deal-summary-qa-bot/tasks.md
+REQUIREMENTS_VALIDATION.md
