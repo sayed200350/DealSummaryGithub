@@ -64,11 +64,11 @@ deal-qa = "src.cli:main"
 deal-summary-qa = "src.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/example/deal-summary-qa-bot"
-Repository = "https://github.com/example/deal-summary-qa-bot"
-Issues = "https://github.com/example/deal-summary-qa-bot/issues"
-Documentation = "https://github.com/example/deal-summary-qa-bot#readme"
-Changelog = "https://github.com/example/deal-summary-qa-bot/releases"
+Homepage = "https://github.com/sayed200350/DealSummaryGithub"
+Repository = "https://github.com/sayed200350/DealSummaryGithub"
+Issues = "https://github.com/sayed200350/DealSummaryGithub/issues"
+Documentation = "https://github.com/sayed200350/DealSummaryGithub#readme"
+Changelog = "https://github.com/sayed200350/DealSummaryGithub/releases"
 
 [tool.setuptools.packages.find]
 where = ["."]

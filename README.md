@@ -18,8 +18,8 @@ A command-line tool for processing deal content to generate social media summari
 
 ```bash
 # Clone the repository
-git clone https://github.com/example/deal-summary-qa-bot.git
-cd deal-summary-qa-bot
+git clone https://github.com/sayed200350/DealSummaryGithub.git
+cd DealSummaryGithub
 
 # Install the package
 pip install -e .
@@ -288,8 +288,8 @@ pipeline = DealAnalysisPipeline(
 
 ```bash
 # Clone and install with dev dependencies
-git clone https://github.com/example/deal-summary-qa-bot.git
-cd deal-summary-qa-bot
+git clone https://github.com/sayed200350/DealSummaryGithub.git
+cd DealSummaryGithub
 pip install -e ".[dev]"
 
 # Install pre-commit hooks
